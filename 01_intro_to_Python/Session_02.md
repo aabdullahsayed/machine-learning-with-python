@@ -1,12 +1,4 @@
-# Python Notes: Loops, Collections & Functions
 
-A beginner-friendly reference. Each topic has:
-- **What it is** (simple explanation)
-- **Why we need it / problem it solves**
-- **Example**
-- **Exercises** (2–3 per topic)
-
----
 
 ## 2. Loops & Control Flow
 
